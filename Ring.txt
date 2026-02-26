@@ -1,1 +1,2 @@
 Ring is modified.
+Test Ring
