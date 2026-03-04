@@ -1,2 +1,4 @@
 Ring is modified.
 Test Ring
+
+Remote Repo Revert commit changes testing
